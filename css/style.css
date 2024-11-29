@@ -148,12 +148,70 @@ img {
     width: 30%;
     }
 
-    
     .why-us .col-right {
         width: 70%;
-    }
-       
-    
+    }  
 }
 
+
+@media screen and (min-width: 479px){
+    .site-header{
+        margin-right: 0;
+        margin-left: 0;
+    }
+    H1{
+        font-size: 100px;
+        margin-top: 5%;
+    }
+    h2{
+        font-size: 70px;
+        margin-top: 5%;
+    }
+    h3{
+        font-size: 60px;
+        margin-top: 5%;
+    }
+    .row{
+        display: inline-block;
+
+    }
+   
+    .why-us .col-left {
+        width: 100%;
+        text-align: center;
+    }
+    .why-us .col-right {
+        width: 100%;
+    }
+
+    .lessons .col{
+        width: 100%;
+        margin-bottom: 20%;
+
+    }
+    body{
+        font-size: 50px;
+    }
+    img{
+        width: 90%;
+    }
+    .lessons .col img{
+        height: 100%;
+    }
+    .steps .col{
+        width: 100%;
+    }
+    .steps .col img{
+        height: 100%;
+    }
+    p{
+        margin-bottom: 15%;
+    }
+    .why-us{
+        background-color: black;
+    }
+   
+
+
+}
  
