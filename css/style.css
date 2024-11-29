@@ -135,26 +135,15 @@ img {
         width: 100%;
     }
 
-   .col{
-    margin-right: 5%;
-    padding-left: 5%;
-    margin-top: 3%;
-   }
-
-
    :root{
     font-size: 20px;
    }
   
-   .why-us .col-left {
-    
-    width: 25%;
-    }
 
-    .why-us .col-right {
-        width: 68%;
-    } 
     
+    .col-left img{
+        width: 100%;
+    }
     
     
 
