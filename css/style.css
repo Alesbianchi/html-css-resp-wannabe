@@ -140,21 +140,21 @@ img {
     padding-left: 5%;
     margin-top: 3%;
    }
+
+
    :root{
     font-size: 20px;
    }
   
    .why-us .col-left {
     
-    width: 30%;
+    width: 25%;
     }
 
     .why-us .col-right {
-        width: 70%;
+        width: 68%;
     } 
-    .steps .card{
-        width: 120%;
-    }
+    
     
     
 
